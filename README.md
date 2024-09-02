@@ -1,16 +1,33 @@
-# flutter_project
+# Row Container Widgets
+A widget that displays its children in a horizontal array to fill the available horizontal space wraps the children within the expanded widget. The row widget does not scroll.
 
-A new Flutter project.
+# Download Flutter
+- Visit the official Flutter site "https://docs.flutter.dev/get-started/install"
+- Extract the downloaded file, e.g., C:\src\flutter.
+- Add the flutter/bin directory to your system's 'PATH' 
+(Settings are  : Open Control Panel > System and Security > System > Advanced system settings > Environment Variables > System variables section, find the Path )
+- `flutter doctor` (Run Flutter Doctor)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# To run the existing project
+- Extract the folder copy it to desired location
+- Move into the folder open Command prompt
+- Run `flutter run"
 
-A few resources to get you started if this is your first Flutter project:
+# if not working ( create new project )
+- `flutter create my_flutter_app` (project name could be anything) (Installation and setup )
+- cd my_flutter_app (navigate to the project)
+- 'flutter run' (Run the project)
+- Paste the files of the project into new setup just by coping.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Features
+You can get an idea how to use Row Container Widgets in your project.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+![Row](https://github.com/user-attachments/assets/d2f70ac6-44a1-4269-897b-54df049b2129)
+
+
+
+
+
+
