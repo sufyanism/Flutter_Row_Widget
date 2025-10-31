@@ -1,15 +1,14 @@
 # Row Container Widgets
 A widget that displays its children in a horizontal array to fill the available horizontal space wraps the children within the expanded widget. The row widget does not scroll.
 
-# Download Flutter
+## Download Flutter
 - Visit the official Flutter site "https://docs.flutter.dev/get-started/install"
 - Extract the downloaded file, e.g., C:\src\flutter.
 - Add the flutter/bin directory to your system's 'PATH' 
 (Settings are  : Open Control Panel > System and Security > System > Advanced system settings > Environment Variables > System variables section, find the Path )
 - `flutter doctor` (Run Flutter Doctor)
 
-
-# To run the existing project
+## To run the existing project
 - Extract the folder copy it to desired location
 - Move into the folder open Command prompt
 - Run `flutter run"
@@ -27,7 +26,26 @@ You can get an idea how to use Row Container Widgets in your project.
 ![Row](https://github.com/user-attachments/assets/d2f70ac6-44a1-4269-897b-54df049b2129)
 
 
+## About Me 
+✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
 
+</br>
+
+## Your all-in-one learning hub! 
+🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
+
+</br>
+
+**Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
+➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
+➡ Explore hands-on courses and resources at: [code.zeba.academy](https://code.zeba.academy)   </br>
+➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
+➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
+
+</br>
+
+**Thank you for visiting!** 
 
 
 
